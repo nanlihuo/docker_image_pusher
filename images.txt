@@ -8,4 +8,4 @@
 --platform=linux/arm64 filebrowser/filebrowser:latest
 --platform=linux/arm64 cnk3x/xunlei:latest
 --platform=linux/arm64 nyanmisaka/jellyfin:latest-rockchip
-
+ypptec/nascab:3.5.3-arm64
