@@ -7,7 +7,6 @@
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 filebrowser/filebrowser:latest
 --platform=linux/arm64 cnk3x/xunlei:latest
---platform=linux/arm64 nyanmisaka/jellyfin:latest-rockchip
-ypptec/nascab:3.5.3-arm64
---platform=linux/arm64 lycheeorg/lychee:alpha-devtools
+--platform=linux/arm64 bestzwei/libretv:latest
+
 
